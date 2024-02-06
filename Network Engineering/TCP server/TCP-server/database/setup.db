@@ -1,0 +1,18 @@
+DROP TABLE IF EXISTS users;
+CREATE TABLE users (
+  login varchar(255) primary key,
+  pass varchar(255) NOT NULL
+);
+
+INSERT INTO users (login, pass) VALUES
+('test1', 'lol'),
+('test2', 'lol'),
+('test3', 'lol'),
+('test4', 'pass'),
+('test5', 'pass'),
+('test6', 'shks'),
+('test7', 'shks2'),
+('test8', 'Alira'),
+('test9', 'Bogod'),
+('test10', 'shks1'),
+('test11', '123');
