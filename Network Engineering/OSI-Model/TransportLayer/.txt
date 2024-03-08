@@ -1,0 +1,14 @@
+- Provides reliable data transfer between applications on different machines.
+- Handles issues like segmentation, sequencing, and flow control at the transport level.
+- Examples: TCP (reliable), UDP (unreliable) protocols.
+- Is a Layer 4
+
+
+
+
+
+
+
+
+
+

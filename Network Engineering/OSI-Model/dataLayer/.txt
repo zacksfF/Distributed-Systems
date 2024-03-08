@@ -1,0 +1,11 @@
+Data link represent layer 2 
+
+- Focuses on error-free data transmission between directly connected devices.
+- Handles functions like addressing (MAC addresses), flow control, and error detection/correction.
+- Examples: Ethernet, Wi-Fi protocols, switches.
+
+
+
+
+
+

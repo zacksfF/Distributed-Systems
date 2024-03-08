@@ -1,0 +1,9 @@
+Session layer represent layer 5
+
+- Establishes, manages, and terminates sessions between communicating applications.
+- Provides services like authentication, authorization, and session termination.
+- Examples: RPC (Remote Procedure Call) protocols.
+
+
+
+
