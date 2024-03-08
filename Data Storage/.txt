@@ -1,0 +1,5 @@
+Impelment data base 
+distributed storage 
+data warehouse 
+data lake 
+etc ..
