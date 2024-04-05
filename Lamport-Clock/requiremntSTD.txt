@@ -1,0 +1,6 @@
+In this TxT file I will use what STD that i use to learn and advance it more 
+- fmt
+- hash/adler32
+- strconv
+- strings
+- sync
