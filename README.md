@@ -1,5 +1,5 @@
 
-# Patterns of Distributed Systems: A Practical Exploration (Go, Python, Rust)
+# Patterns of Distributed Systems: A Practical Exploration 
 
 Welcome to this comprehensive exploration of fundamental patterns for building robust and scalable **distributed systems**! This repository delves into a rich collection of patterns, equipping you with the knowledge and practical code examples to tackle common challenges in **distributed system design**.
 
