@@ -13,16 +13,7 @@ Welcome to this comprehensive exploration of fundamental patterns for building r
 
 ## Requirement
 
-- Good Knowledge of Distributed systems and Network engineering (Protocol, OSI, etc)
-
-- [Go Programming](https://go.dev/)
-- [Rust](https://www.rust-lang.org/), [Python](https://www.python.org/) (Optional)
-- Docker 
-- some knowledge of Replication and CAP theorem 
-- Distributed Database
-- ......``o``
-
-
+-
 
 # Patterns 
 
