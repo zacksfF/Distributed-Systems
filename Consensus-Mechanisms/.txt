@@ -1,0 +1,1 @@
+A consensus mechanism that are used in blockchain 
