@@ -1,5 +1,6 @@
 
 # Patterns of Distributed Systems: A Practical Exploration 
+``This is Research Repositry enhanced almost concept in distributed system for all Fields ie, AI, Ledger(Blockchain), Data Management, Shared Memory, Communication between nodes etc``
 
 Welcome to this comprehensive exploration of fundamental patterns for building robust and scalable **distributed systems**! This repository delves into a rich collection of patterns, equipping you with the knowledge and practical code examples to tackle common challenges in **distributed system **.
 
