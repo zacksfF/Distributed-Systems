@@ -1,8 +1,7 @@
 
 # Patterns of Distributed Systems: A Practical Exploration 
-``This is Research Repositry enhanced almost concept in distributed system for all Fields ie, AI, Ledger(Blockchain), Data Management, Shared Memory, Communication between nodes etc``
 
-Welcome to this comprehensive exploration of fundamental patterns for building robust and scalable **distributed systems**! This repository delves into a rich collection of patterns, equipping you with the knowledge and practical code examples to tackle common challenges in **distributed system **.
+This repository is dedicated to comprehensive research in the field of Distributed Systems, encompassing various layers from high-level conceptual frameworks to low-level implementations. It delves into topics such as Intelligence and Ledger Security, Data Management, Communication between nodes, providing in-depth analyses, methodologies, and findings aimed at advancing knowledge and innovation in these critical areas. The repository serves as a valuable resource for researchers, practitioners, and enthusiasts seeking to explore and contribute to the cutting-edge developments in Distributed Systems and related domains.
 
 ## Authors
 
